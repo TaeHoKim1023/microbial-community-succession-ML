@@ -5,8 +5,8 @@
 
 **Authors:** Eun Seo Lee<sup>a</sup>, Tae Ho Kim<sup>b</sup>, Hansol Doh<sup>a</sup>, Young Suk Kim<sup>a</sup>, Woo-Ju Kim<sup>b,c</sup>, Sun Ae Kim<sup>a</sup>
 
-<sup>a</sup> Department of Food Science and Biotechnology, Ewha Womans University, Seoul, South Korea
-<sup>b</sup> Department of Food Science and Biotechnology, Seoul National University of Science and Technology (SeoulTech), Seoul, South Korea
+<sup>a</sup> Department of Food Science and Biotechnology, Ewha Womans University, Seoul, South Korea\
+<sup>b</sup> Department of Food Science and Biotechnology, Seoul National University of Science and Technology (SeoulTech), Seoul, South Korea\
 <sup>c</sup> Research Institute of Food and Biotechnology, Seoul National University of Science and Technology (SeoulTech), Seoul, South Korea
 
 **Corresponding authors:** Sun Ae Kim (<sunaekim@ewha.ac.kr>), Woo Ju Kim (<wjk700@seoultech.ac.kr>)
