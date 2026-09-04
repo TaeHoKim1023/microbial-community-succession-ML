@@ -53,11 +53,11 @@ code/
 
 ## Data Availability
 
-Raw 16S rRNA amplicon sequencing data (FASTQ files) have been deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession **[TO BE CONFIRMED — pending verification with co-authors before final submission]**.
+Raw 16S rRNA amplicon sequencing data (FASTQ files) have been deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession PRJNA1377274 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1377274)."
 
 The processed genus-level count table and associated sample metadata used in this analysis are available in this repository as `data/pkl/genus_preprocessed.pkl`. All derived intermediate outputs (labeled splits, screening results, trained models) are also provided as serialized `.pkl` files to allow reproduction of downstream analyses without re-running computationally intensive steps.
 
-> The datasets generated and/or analysed during the current study are available in this GitHub repository and the associated SRA entry. Correspondence and requests for materials should be addressed to the corresponding authors.
+> The datasets generated and/or analysed during the current study are available in this GitHub repository and the associated SRA entry (PRJNA1377274). Correspondence and requests for materials should be addressed to the corresponding authors.
 
 ---
 
