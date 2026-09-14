@@ -34,6 +34,7 @@ Thresholds are optimized independently on each seed's training data using Optuna
 
 ## Repository Structure
 
+```
 code/
 ├── 1. preprocessing.ipynb        # CLR transformation, quality filtering, train/test/val split
 ├── 2. labeling.ipynb             # TPC-based label assignment (Optuna / K-means), threshold stability test
@@ -44,10 +45,11 @@ code/
 ├── 7. leakage_test.ipynb         # Permutation-based leakage verification (1,000 permutations)
 │
 └── data/
-├── pkl/                      # Serialized intermediate results (see PKL File Descriptions)
-├── Sanitation.xlsx           # Raw microbiome count table and sample metadata
-├── classification_performance.xlsx
-└── regression_performance.xlsx
+    ├── pkl/                      # Serialized intermediate results (see PKL File Descriptions)
+    ├── Sanitation.xlsx           # Raw microbiome count table and sample metadata
+    ├── classification_performance.xlsx
+    └── regression_performance.xlsx
+```
 
 ---
 
