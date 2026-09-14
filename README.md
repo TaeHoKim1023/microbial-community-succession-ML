@@ -1,4 +1,4 @@
-# Microbial community shifts underpin AI-based early detection of freshness loss
+# Microbial community succession and machine learning-based estimation of microbial load during refrigerated storage
 
 > Code repository for the manuscript submitted to *Nature Communications*
 > Manuscript ID: NCOMMS-26-034432
